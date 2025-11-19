@@ -28,8 +28,6 @@ CREATE TABLE data_barang (
 );
 ```
 
-````
-
 #### B. SQL: Menambahkan Data Awal
 
 ```sql
