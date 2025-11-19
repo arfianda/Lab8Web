@@ -68,7 +68,7 @@ File ini mengambil seluruh data dari tabel `data_barang` dan menampilkannya dala
 
 **[Screenshot 2: Tampilan `index.php` (Read)]**
 
-\<img src="path/to/screenshot/index_read.png" alt="Tampilan halaman utama index.php"\>
+![img](/docs/index.png)
 
 ---
 
@@ -80,11 +80,12 @@ File ini berisi form input dan logika PHP untuk memproses data yang dikirimkan, 
 
 **[Screenshot 3: Tampilan Form `tambah.php` kosong]**
 
-\<img src="path/to/screenshot/tambah_form.png" alt="Tampilan form tambah.php"\>
+![img](/docs/tambah.png)
 
 **[Screenshot 4: Tampilan `index.php` setelah berhasil menambah satu data baru]**
 
-\<img src="path/to/screenshot/index_after_create.png" alt="Tampilan data baru di index.php"\>
+![img](/docs/tambahdone.png)
+
 
 ---
 
@@ -96,11 +97,12 @@ File ini mengambil `id_barang` dari URL, menampilkan data lama di form, dan menj
 
 **[Screenshot 5: Tampilan Form `ubah.php` yang sudah terisi data lama]**
 
-\<img src="path/to/screenshot/ubah_form.png" alt="Tampilan form ubah.php yang terisi data lama"\>
+![img](/docs/ubah.png)
 
 **[Screenshot 6: Tampilan `index.php` setelah data berhasil diubah]**
 
-\<img src="path/to/screenshot/index_after_update.png" alt="Tampilan data di index.php setelah diubah"\>
+![img](/docs/ubahdone.png)
+
 
 ---
 
@@ -122,11 +124,12 @@ header('location: index.php');
 
 **[Screenshot 7: Tampilan konfirmasi sebelum penghapusan data]**
 
-\<img src="path/to/screenshot/confirm_delete.png" alt="Dialog konfirmasi penghapusan data"\>
+![img](/docs/hapus.png)
+
 
 **[Screenshot 8: Tampilan `index.php` setelah data berhasil dihapus]**
 
-\<img src="path/to/screenshot/index_after_delete.png" alt="Tampilan index.php setelah data dihapus"\>
+![img](/docs/index.png)
 
 ---
 
