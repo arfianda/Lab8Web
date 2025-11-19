@@ -39,7 +39,7 @@ INSERT INTO data_barang (kategori, nama, gambar, harga_beli, harga_jual, stok)
 
 **[Screenshot 1: Tampilan Tabel `data_barang` di PHPMyAdmin setelah diisi data awal]**
 
-<img src="/docs/phpmyadmin.png" alt="Tampilan tabel data_barang di PHPMyAdmin"\>
+![img](/docs/phpmyadmin.png)
 
 ---
 
